@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The main purpose of this Codecademy exercise is to learn and practice visual rules properties by styling _How the Rise of Soccer in the US Is Changing the Face of Youth Sports_ website.
+The main purpose of this Codecademy exercise is to learn and practice visual css properties by styling _How the Rise of Soccer in the US Is Changing the Face of Youth Sports_ website.
 
 ## Review Visual Rules
 
